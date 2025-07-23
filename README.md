@@ -89,8 +89,8 @@ Focus: Software Engineering, System Design, Algorithms
 
 Here are a few of my featured projects. More on my [GitHub](https://github.com/yourusername).
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1)](https://github.com/yourusername/project1)  
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2)](https://github.com/yourusername/project2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Mohammad-delshadd8&repo=Mohammad-delshadd8)](https://github.com/Mohammad-delshadd8/Mohammad-delshadd8)  
+
 
 ---
 
