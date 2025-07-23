@@ -21,7 +21,7 @@ Passionate about leveraging technology to optimize business processes and drive 
 `Docker` • `Kubernetes` • `Prometheus` • `Grafana` • `Zabbix` • `Linux` • `Scripts` • `ELK` • `Cloud Computing` • `AWS` 
 
 **🔹 Software Engineering:**  
-`Project mnagement` • `Collaboration` • `Soft skills`  • `Problem-Solving`  • `Time Management`   • `Attention to Detail` 
+`Project mnagement` • `Collaboration` • `Soft skills`  • `Problem-Solving`  • `Time Management`   • `Attention to Detail`  • `Software projects Contracts` 
 
 **🔹 Tools & Systems:**  
 `Git` • `CRM (ZTE, Huawei)` • `OCS` • `CBS` • `BSS` • `PL-SQL` 
