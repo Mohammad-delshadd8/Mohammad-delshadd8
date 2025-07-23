@@ -15,16 +15,16 @@ Passionate about leveraging technology to optimize business processes and drive 
 ## ⚙️ Technical Skills
 
 **🔹 Data Science:**  
-`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Seaborn` • `Matplotlib` • `SQL` • `T-SQL` • `PowerBI` • `Web Crawling`
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Seaborn` • `Matplotlib` • `SQL` • `T-SQL` • `PowerBI` • `Web Crawling` • `tensorflow` 
 
 **🔹 DevOps & Cloud:**  
-`Docker` • `Kubernetes` • `Prometheus` • `Grafana` • `Zabbix` • `Linux` • `Bash` • `Nginx`
+`Docker` • `Kubernetes` • `Prometheus` • `Grafana` • `Zabbix` • `Linux` • `Scripts` • `ELK` • `Cloud Computing` 
 
 **🔹 Software Engineering:**  
-`Agile` • `HTML` • `CSS` • `JavaScript` • `XML` • `System Design`
+`Project mnagement` • `Collaboration` • `Soft skills`  • `Problem-Solving`  • `Time Management`   • `Attention to Detail` 
 
 **🔹 Tools & Systems:**  
-`Git` • `CRM (ZTE, Huawei)` • `OCS` • `CBS` • `BSS` • `PL-SQL` • `Mattermost`
+`Git` • `CRM (ZTE, Huawei)` • `OCS` • `CBS` • `BSS` • `PL-SQL` 
 
 ---
 
@@ -96,20 +96,20 @@ Here are a few of my featured projects. More on my [GitHub](https://github.com/y
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-delshadd8&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-delshadd8&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Mohammad-delshadd8&theme=tokyonight)  
 
 ---
 
 ## ⏳ Contribution Calendar
 
 <!-- GitHub activity graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)](https://github.com/yourusername)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-delshadd8&theme=tokyo-night)](https://github.com/Mohammad-delshadd8)
 
 ---
 
 > 💡 *Feel free to reach out for collaborations, freelance, or mentorship opportunities!*
 
-🧠 _Built with passion for Data, DevOps, and Open Source._
+🧠 _Built with passion for Data Driven Businesses 
 
