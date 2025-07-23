@@ -6,7 +6,7 @@
 
 ## 📌 Summary
 
-Data Science and DevOps Engineer with 3+ years of experience in monitoring, automation, and data-driven solutions.  
+Software Engineer  
 Proficient in Python, SQL, Docker, Kubernetes, PowerBI, Grafana.  
 Passionate about leveraging technology to optimize business processes and drive decision-making.
 
