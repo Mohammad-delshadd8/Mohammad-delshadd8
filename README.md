@@ -18,7 +18,7 @@ Passionate about leveraging technology to optimize business processes and drive 
 `Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Seaborn` • `Matplotlib` • `SQL` • `T-SQL` • `PowerBI` • `Web Crawling` • `tensorflow` 
 
 **🔹 DevOps & Cloud:**  
-`Docker` • `Kubernetes` • `Prometheus` • `Grafana` • `Zabbix` • `Linux` • `Scripts` • `ELK` • `Cloud Computing` 
+`Docker` • `Kubernetes` • `Prometheus` • `Grafana` • `Zabbix` • `Linux` • `Scripts` • `ELK` • `Cloud Computing` • `AWS` 
 
 **🔹 Software Engineering:**  
 `Project mnagement` • `Collaboration` • `Soft skills`  • `Problem-Solving`  • `Time Management`   • `Attention to Detail` 
@@ -89,7 +89,7 @@ Focus: Software Engineering, System Design, Algorithms
 
 Here are a few of my featured projects. More on my [GitHub](https://github.com/yourusername).
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Mohammad-delshadd8&repo=Mohammad-delshadd8)](https://github.com/Mohammad-delshadd8/Mohammad-delshadd8)  
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Mohammad-delshadd8&repo=DataScience)](https://github.com/Mohammad-delshadd8/DataScience)  
 
 
 ---
