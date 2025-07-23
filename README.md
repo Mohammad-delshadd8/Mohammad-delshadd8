@@ -7,7 +7,7 @@
 ## 📌 Summary
 
 Software Engineer  
-Proficient in Python, SQL, Docker, Kubernetes, PowerBI, Grafana.  
+Proficient in Python, SQL, Docker, Kubernetes, PowerBI, Grafana, AWS.  
 Passionate about leveraging technology to optimize business processes and drive decision-making.
 
 ---
