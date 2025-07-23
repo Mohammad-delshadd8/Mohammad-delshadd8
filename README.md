@@ -1,120 +1,115 @@
-Mohammad Delshad
-MLOPS & Data SCIENCE
-Tehran, Iran
-+98 991 201 38 06
-+98 939 470 31 85
-● mohammaddelshad808@gmail.com
-● Linkedin 
+# Mohammad Delshad 👨‍💻  
+**Data Enthusiast | MLOps & Data Science | Tehran, Iran**  
+📧 [Email](mailto:mohammaddelshad808@gmail.com) • [🔗 LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammad-delshad-380506219)) • [💻 GitHub](https://github.com/Mohammad-delshadd8)
 
-SUMMARY:
-Data Science and DevOps Engineer with 3+ years of experience in monitoring,
-automation, and data-driven solutions. Proficient in Python, SQL, Docker,
-Kubernetes, and data visualization tools like PowerBI and Grafana. Skilled in
-building scalable systems, automating workflows, and delivering actionable
-insights through data analysis. Passionate about leveraging technology to
-optimize business processes and drive decision-making.
+---
 
-TECHNICAL SKILLS:
-+ Data science & Analytics:
-Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, SQL, T-SQL,
-PowerBI, Web Crawling, Data Visualization
+## 📌 Summary
 
-+ DevOps & Cloud:
-Docker, Kubernetes, Prometheus, Grafana, Zabbix, Linux, Bash,
-Nginx,Infrastructure Architecture
+Data Science and DevOps Engineer with 3+ years of experience in monitoring, automation, and data-driven solutions.  
+Proficient in Python, SQL, Docker, Kubernetes, PowerBI, Grafana.  
+Passionate about leveraging technology to optimize business processes and drive decision-making.
 
-+ Software engineering:
-BE graduated in software development & ME student
-Software Development, System Design, Agile Methodologies, HTML, CSS,
-JavaScript, XML
+---
 
-TOOLS:
-Git, CRM Systems (ZTE, Huawei), OCS, CBS, BSS, T-SQL, PL-SQL, Python,
-Zabbix, PRTG, Prometheus, Grafana, Mattermost, Docker, Kubernetes
+## ⚙️ Technical Skills
 
-PROFESSIONAL EXPERIENCE:
-MCI Behsa, Tehran - Infrastructure managed services NOC engineer
-2022 - PRESENT
-● +200 servers and +500 services, ensuring 99.9% uptime and high
-availability Using CRM/CBS Digital view(Huawei products), PRTG and
-Zabbix
+**🔹 Data Science:**  
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Seaborn` • `Matplotlib` • `SQL` • `T-SQL` • `PowerBI` • `Web Crawling`
 
-● Designed and deployed Linux-based and Dockerized monitoring
-systems using Prometheus, Grafana, Node Exporter, and cAdvisor
-Automated routine processes, reducing manual effort by 30% and
-improving operational efficiency.
+**🔹 DevOps & Cloud:**  
+`Docker` • `Kubernetes` • `Prometheus` • `Grafana` • `Zabbix` • `Linux` • `Bash` • `Nginx`
 
-● Generated daily business reports using T-SQL and PL-SQL from
-production and NRT databases.
-Documenting and Automating routine processes
+**🔹 Software Engineering:**  
+`Agile` • `HTML` • `CSS` • `JavaScript` • `XML` • `System Design`
 
-● Conducted log analysis and performed first-layer troubleshooting
-resolving issues within SLA timelines.
-Rightel, Tehran - Web VR tour developer
-2021 - 2022
+**🔹 Tools & Systems:**  
+`Git` • `CRM (ZTE, Huawei)` • `OCS` • `CBS` • `BSS` • `PL-SQL` • `Mattermost`
 
-● Resolved +100 customer tickets daily, providing technical support for
-ZTE CRM and OCS online charging systems.
-3dArch, Tehran-Berlin - Web VR tour developer
-2020 - 2021
+---
 
-● Developed immersive VR tours using HTML, CSS, JavaScript
-XML, and KRPano, enhancing user engagement.
-● Delivered projects on time, meeting client requirements and
-achieving a 95% client satisfaction rate.
+## 💼 Experience
 
-EDUCATION:
-Master of Science (MS) in Computer Engineering
-IAUSRB, Tehran | 2024 - PRESENT
-Specializing in Advanced Data Science, Machine Learning, and Cloud
-Computing, Quantum computing.
+**MCI Behsa** — *Infrastructure Managed Services NOC Engineer*  
+📍 Tehran | 📆 *2022 – Present*  
+- Monitoring 200+ servers & 500+ services using PRTG, Zabbix, Grafana  
+- Deployed Prometheus stack with Docker  
+- Automated routine tasks, reducing manual effort by 30%  
+- Daily SQL/PLSQL reporting & SLA troubleshooting
 
-Bachelor of Engineering (BE) in Computer Engineering
-IAUCTB, Tehran | 2020 - 2024
-Relevant Coursework: Software Engineering, Data Structures, Algorithms,
-System Design.
+**Rightel** — *CRM/OCS Support Engineer*  
+📍 Tehran | 📆 *2021 – 2022*  
+- Resolved 100+ customer issues daily (ZTE CRM, OCS)
 
-Certifications:
-Data science - sematec
-Issue date: 2024
+**3dArch** — *Web VR Tour Developer*  
+📍 Tehran-Berlin | 📆 *2020 – 2021*  
+- Created immersive tours with HTML, JS, XML, KRPano  
+- Delivered 95% client satisfaction
 
-SQL, T-SQL, Python, Data Science Algorithms, Data Analysis (NumPy, Pandas,
-Matplotlib), Web Crawling, PowerBI, Deep learning
-Devops - sematec
-Issue date: 2023
+---
 
-AWS, Docker, Kubernetes, Prometheus, Grafana, Zabbix, Linux, Bash, Nginx
-Python programming - JT-IT
-Issue date: 2022
+## 🎓 Education
 
-Python Fundamentals, GUI Development (Tkinter), Database Integration
-Web Development - JT-IT
-Issue date: 2021
+**🎓 Master of Science in Computer Engineering**  
+*IAUSRB, Tehran | 2024 – Present*  
+Focus: Advanced Data Science, ML, Cloud, Quantum
 
-HTML, CSS, JavaScript, Bootstrap, WordPress
+**🎓 Bachelor of Engineering in Computer Engineering**  
+*IAUCTB, Tehran | 2020 – 2024*  
+Focus: Software Engineering, System Design, Algorithms
 
-KEY ACHIEVEMENTS:
-● Successfully deployed a Dockerized monitoring system for +200
-servers, improving system reliability by 20%.
-● Automated daily reporting processes, saving +10 hours per week for
-the team.
+---
 
-● Developed +10 VR tours, contributing to a 30% increase in client
-engagement for the company.
+## 📜 Certifications
 
-Server Monitoring & Automation:
-● Built a scalable monitoring system using Zabbix,PRTG, Prometheus,
-Grafana, and Docker, reducing downtime by 15%.
+- 🏅 **Data Science** – Sematec (2024)  
+- 🏅 **DevOps** – Sematec (2023)  
+- 🏅 **Python Programming** – JT-IT (2022)  
+- 🏅 **Web Development** – JT-IT (2021)
 
-● Automated reporting & analysis improving response time by 25%.
+---
 
-Data-Driven Business Insights:
-● Analyzed large datasets using Python, Pandas, Matplotlib and SQL,
-delivering actionable insights that improved decision-making.
+## 🏆 Key Achievements
 
-● Created interactive dashboards in PowerBI, enabling stakeholders to
-visualize key metrics.
+- 🚀 Dockerized monitoring for 200+ servers → +20% system reliability  
+- 📊 Automated reporting → saved 10+ hours/week  
+- 🌐 Built 10+ VR tours → +30% user engagement  
+- 📈 Built PowerBI dashboards for decision-making  
 
-LANGUAGES:
-● Persian (Native)
-● English (Professional Working Proficiency)
+---
+
+## 🌍 Languages
+
+- 🇮🇷 Persian (Native)  
+- 🇬🇧 English (Professional Working Proficiency)
+
+---
+
+## 📌 Pinned Projects
+
+Here are a few of my featured projects. More on my [GitHub](https://github.com/yourusername).
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1)](https://github.com/yourusername/project1)  
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2)](https://github.com/yourusername/project2)
+
+---
+
+## 📊 GitHub Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)  
+
+---
+
+## ⏳ Contribution Calendar
+
+<!-- GitHub activity graph -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)](https://github.com/yourusername)
+
+---
+
+> 💡 *Feel free to reach out for collaborations, freelance, or mentorship opportunities!*
+
+🧠 _Built with passion for Data, DevOps, and Open Source._
+
