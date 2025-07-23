@@ -1,6 +1,6 @@
 # Mohammad Delshad 👨‍💻  
 **Data Enthusiast | MLOps & Data Science | Tehran, Iran**  
-📧 [Email](mailto:mohammaddelshad808@gmail.com) • [🔗 LinkedIn]([https://linkedin.com/in/mohammad-delshad-380506219](https://www.linkedin.com/in/mohammad-delshad-380506219)) • [💻 GitHub](https://github.com/Mohammad-delshadd8)
+📧 [Email](mailto:mohammaddelshad808@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/mohammad-delshad-380506219) • [💻 GitHub](https://github.com/Mohammad-delshadd8)
 
 ---
 
