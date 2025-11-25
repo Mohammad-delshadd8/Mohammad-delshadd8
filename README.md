@@ -5,10 +5,21 @@
 ---
 
 ## 📌 Summary
+ 
+A **Software Engineer** focused on the intersection of **Data Science**, **MLOps**, and **Cloud / Monitoring**.
 
-Software Engineer  
-Proficient in Python, SQL, Docker, Kubernetes, PowerBI, Grafana, AWS.  
-Passionate about leveraging technology to optimize business processes and drive decision-making.
+Enjoying:
+- Turning raw data into **insightful dashboards and reports**
+- Building **reliable monitoring stacks** for large infrastructures
+- Using **automation** to reduce manual work and improve **SLAs & reliability**
+
+Currently:
+- 🔭 Working as an **Monitoring Systems Developer** at **IT Dept. of Karafarin Bank**
+- 🎓 Pursuing an **M.Sc. in Computer Engineering** (Data Science, ML, Cloud, Quantum)
+- ⚙️ Playing at the boundary of **data, infrastructure, and software engineering**
+
+---
+
 
 ---
 
@@ -30,12 +41,21 @@ Passionate about leveraging technology to optimize business processes and drive 
 
 ## 💼 Experience
 
+### Karafarin Bank — *Monitoring Systems Developer*  
+📍 Tehran | 🗓️ *2025 – Present* 
+- Core Banking Business
+- ELK - zabbix - Prometheus - Grafana - Slack (All integrated)
+- Data Engineering 
+- Data visualization 
+- Data Driven Business 
+
+
 **MCI Behsa** — *Infrastructure Managed Services NOC Engineer*  
-📍 Tehran | 📆 *2022 – Present*  
+📍 Tehran | 📆 *2022 – 2025*  
 - Monitoring 200+ servers & 500+ services using PRTG, Zabbix, Grafana  
 - Deployed Prometheus stack with Docker  
 - Automated routine tasks, reducing manual effort by 30%  
-- Daily SQL/PLSQL reporting & SLA troubleshooting
+- Daily SQL/PLSQL/PGSQL reporting & SLA troubleshooting
 
 **Rightel** — *CRM/OCS Support Engineer*  
 📍 Tehran | 📆 *2021 – 2022*  
