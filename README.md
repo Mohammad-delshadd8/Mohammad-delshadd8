@@ -1,6 +1,6 @@
 # Mohammad Delshad 👨‍💻  
 **Data Enthusiast | MLOps & Data Science | Tehran, Iran**  
-📧 [Email](mailto:mohammaddelshad808@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/mohammad-delshad-380506219) • [💻 GitHub](https://github.com/Mohammad-delshadd8)
+📧 [Email](mailto:mohammaddelshad808@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/mohammad-delshad-380506219) • [💻 GitHub](https://github.com/Mohammad-delshadd8) • [🌐 WEB](https://mohammad-delshad.ir)
 
 ---
 
@@ -41,7 +41,7 @@ Currently:
 
 ## 💼 Experience
 
-### Karafarin Bank — *Monitoring Systems Developer*  
+### Karafarin Bank — *SRE Engineer*  
 📍 Tehran | 🗓️ *2025 – Present* 
 - Core Banking Business
 - ELK - zabbix - Prometheus - Grafana - Slack (All integrated)
