@@ -1,135 +1,88 @@
-# Mohammad Delshad 👨‍💻  
-**Data Enthusiast | MLOps & Data Science | Tehran, Iran**  
-📧 [Email](mailto:mohammaddelshad808@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/mohammad-delshad-380506219) • [💻 GitHub](https://github.com/Mohammad-delshadd8) • [🌐 WEB](https://mohammad-delshad.ir)
+<!-- ===== HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=200&section=header&text=Ali%20Abyari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Developer%20%7C%20Microservices%20%7C%20Backend%20Engineering&descAlignY=55&descSize=18"/>
 
----
+<!-- ===== INTRO ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Backend+Developer+%40+.NET;Building+scalable+microservices;Clean+Architecture+%7C+DDD+%7C+REST+APIs;Always+learning%2C+always+shipping+%F0%9F%9A%80"/>
+</p>
 
-## 📌 Summary
- 
-A **Software Engineer** focused on the intersection of **Data Science**, **MLOps**, and **Cloud / Monitoring**.
+<br/>
 
-Enjoying:
-- Turning raw data into **insightful dashboards and reports**
-- Building **reliable monitoring stacks** for large infrastructures
-- Using **automation** to reduce manual work and improve **SLAs & reliability**
+<!-- ===== ABOUT ===== -->
+<h3 align="center">👨‍💻 About Me</h3>
 
-Currently:
-- 🔭 Working as an **Monitoring Systems Developer** at **IT Dept. of Karafarin Bank**
-- 🎓 Pursuing an **M.Sc. in Computer Engineering** (Data Science, ML, Cloud, Quantum)
-- ⚙️ Playing at the boundary of **data, infrastructure, and software engineering**
+<p align="center">
+  🔭 Currently building high-performance <b>.NET</b> microservices in production<br/>
+  🌱 Diving deep into <b>Clean Architecture</b>, <b>Domain-Driven Design</b>, and <b>Distributed Systems</b><br/>
+  💬 Ask me about <b>C#</b>, <b>ASP.NET Core</b>, <b>SQL Server</b>, and <b>Docker</b> orchestration<br/>
+  ⚡ Fun fact: I love optimizing database queries more than writing new features!
+</p>
 
----
+<br/>
 
+<!-- ===== TECH STACK & USAGE ===== -->
+<h3 align="center">🧰 Tech Stack & Usage</h3>
 
----
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+      <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+    </td>
+    <td><i>Primary for backend logic · Scripting & automation · Relational data management · Enterprise PL/SQL</i></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+      <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core"/>
+      <img src="https://img.shields.io/badge/REST_API-%23007ACC.svg?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
+    </td>
+    <td><i>Cross-platform runtime · Web API development · ORM for data access · Designing RESTful services</i></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+    </td>
+    <td><i>Version control · CI/CD pipelines · Containerization & orchestration · Automated builds & releases</i></td>
+  </tr>
+</table>
 
-## ⚙️ Technical Skills
+<br/>
 
-**🔹 Data Science:**  
-`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Seaborn` • `Matplotlib` • `SQL` • `T-SQL` • `PowerBI` • `Web Crawling` • `tensorflow` 
+<!-- ===== GITHUB METRICS ===== -->
+<h3 align="center">📊 GitHub Insights</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AliAbyari/AliAbyari/main/metrics.svg" alt="Metrics"/>
+</p>
 
-**🔹 DevOps & Cloud:**  
-`Docker` • `Kubernetes` • `Prometheus` • `Grafana` • `Zabbix` • `Linux` • `Scripts` • `ELK` • `Cloud Computing` • `AWS` 
+<!-- ===== STREAK STATS ===== -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AliAbyari&theme=aura&hide_border=true" alt="Streak Stats"/>
+</p>
 
-**🔹 Software Engineering:**  
-`Software projects Contracts`  • `Project mnagement` • `Collaboration`  • `Problem-Solving`  • `Time Management`  • `Attention to Detail` 
+<br/>
 
-**🔹 Tools & Systems:**  
-`Git` • `CRM (ZTE, Huawei)` • `OCS` • `CBS` • `BSS` • `PL-SQL` 
+<!-- ===== SNAKE ANIMATION ===== -->
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AliAbyari/AliAbyari/output/github-snake-dark.svg" alt="snake animation"/>
+</p>
 
----
+<br/>
 
-## 💼 Experience
+<!-- ===== FOOTER ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AliAbyari&style=for-the-badge&color=512BD4&label=Profile+Views" alt="Profile views"/>
+</p>
 
-### Karafarin Bank — *SRE Engineer*  
-📍 Tehran | 🗓️ *2025 – Present* 
-- Core Banking Business
-- ELK - zabbix - Prometheus - Grafana - Slack (All integrated)
-- Data Engineering 
-- Data visualization 
-- Data Driven Business 
-
-
-**MCI Behsa** — *Infrastructure Managed Services NOC Engineer*  
-📍 Tehran | 📆 *2022 – 2025*  
-- Monitoring 200+ servers & 500+ services using PRTG, Zabbix, Grafana  
-- Deployed Prometheus stack with Docker  
-- Automated routine tasks, reducing manual effort by 30%  
-- Daily SQL/PLSQL/PGSQL reporting & SLA troubleshooting
-
-**Rightel** — *CRM/OCS Support Engineer*  
-📍 Tehran | 📆 *2021 – 2022*  
-- Resolved 100+ customer issues daily (ZTE CRM, OCS)
-
-**3dArch** — *Web VR Tour Developer*  
-📍 Tehran-Berlin | 📆 *2020 – 2021*  
-- Created immersive tours with HTML, JS, XML, KRPano  
-- Delivered 95% client satisfaction
-
----
-
-## 🎓 Education
-
-**🎓 Master of Science in Computer Engineering**  
-*IAUSRB, Tehran | 2024 – Present*  
-Focus: Advanced Data Science, ML, Cloud, Quantum
-
-**🎓 Bachelor of Engineering in Computer Engineering**  
-*IAUCTB, Tehran | 2020 – 2024*  
-Focus: Software Engineering, System Design, Algorithms
-
----
-
-## 📜 Certifications
-
-- 🏅 **Data Science** – Sematec (2024)  
-- 🏅 **DevOps** – Sematec (2023)  
-- 🏅 **Python Programming** – JT-IT (2022)  
-- 🏅 **Web Development** – JT-IT (2021)
-
----
-
-## 🏆 Key Achievements
-
-- 🚀 Dockerized monitoring for 200+ servers → +20% system reliability  
-- 📊 Automated reporting → saved 10+ hours/week  
-- 🌐 Built 10+ VR tours → +30% user engagement  
-- 📈 Built PowerBI dashboards for decision-making  
-
----
-
-## 🌍 Languages
-
-- 🇮🇷 Persian (Native)  
-- 🇬🇧 English (Professional Working Proficiency)
-
----
-
-## 📌 Pinned Projects
-
-Here are a few of my featured projects. More on my [GitHub](https://github.com/yourusername).
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Mohammad-delshadd8&repo=DataScience)](https://github.com/Mohammad-delshadd8/DataScience)  
-
-
----
-
-## 📊 GitHub Stats & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-delshadd8&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-delshadd8&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohammad-delshadd8&theme=tokyonight)  
-
----
-
-## ⏳ Contribution Calendar
-
-<!-- GitHub activity graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-delshadd8&theme=tokyo-night)](https://github.com/Mohammad-delshadd8)
-
----
-
-> 💡 *Feel free to reach out for collaborations, freelance, or mentorship opportunities!*
-
-🧠 _Built with passion for Data Driven Businesses 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,100:512BD4&height=120&section=footer"/>
