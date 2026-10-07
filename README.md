@@ -3,7 +3,7 @@
 
 <!-- ===== TYPING INTRO ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Senior+MLOps+%26+Data+Engineer;Architecting+Observability+at+Scale;Python+%7C+Prometheus+%7C+Kubernetes+%7C+ELK;200%2B+Servers+Monitored+%7C+%2B20%25+Reliability;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=MLOps+%26+Data+Engineer;Architecting+Observability+at+Scale;Python+%7C+Prometheus+%7C+Kubernetes+%7C+ELK;200%2B+Servers+Monitored+%7C+%2B20%25+Reliability;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80"/>
 </p>
 
 <br/>
@@ -12,7 +12,7 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-  <b>Senior Software Engineer</b> with <b>5+ years</b> of experience at the intersection of <b>Data Science</b>, <b>MLOps</b>, and <b>Infrastructure Reliability</b>. I design and build end‑to‑end observability stacks that empower organisations to make data‑driven decisions in real time.<br/><br/>
+  <b> Software Engineer</b> with <b>5+ years</b> of experience at the intersection of <b>Data Science</b>, <b>MLOps</b>, and <b>Infrastructure Reliability</b>. I design and build end‑to‑end observability stacks that empower organisations to make data‑driven decisions in real time.<br/><br/>
   🔭 Currently architecting core banking monitoring at <b>Karafarin Bank</b> using <b>ELK</b>, <b>Prometheus</b>, and <b>Grafana</b>.<br/>
   🌱 Pursuing an <b>M.Sc. in Computer Engineering</b> (Data Science, ML, Cloud, Quantum).<br/>
   📈 Boosted system reliability by <b>+20%</b> and reduced manual ops effort by <b>30%</b> through automation and proactive alerting.<br/>
